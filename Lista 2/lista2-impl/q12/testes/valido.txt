@@ -1,0 +1,1 @@
+var v : array [1..10] of integer; m : array [0..5] of array [1..3] of char;
